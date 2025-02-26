@@ -1,3 +1,0 @@
-> Must have 1-2 javascript to make more dynamic
-> Liquid display
-> bonus = include any form of animation
